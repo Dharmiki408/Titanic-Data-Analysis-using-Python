@@ -64,3 +64,9 @@ These files are typically available on [Kaggle's Titanic competition](https://ww
    ```bash
    git clone https://github.com/yourusername/titanic-eda.git
    cd titanic-eda
+##  outcome
+<img width="771" height="704" alt="image" src="https://github.com/user-attachments/assets/68b9e133-c003-4d7f-baac-c56f7b214157" />
+<img width="812" height="659" alt="Screenshot 2025-07-25 141629" src="https://github.com/user-attachments/assets/5dab91b2-d590-461b-8f27-73c2debb1f0c" />
+<img width="846" height="601" alt="Screenshot 2025-07-25 141616" src="https://github.com/user-attachments/assets/7d61fb1a-779a-4354-a4ef-1b9c0d39248e" />
+
+
